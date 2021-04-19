@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contoh MVP</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="dummy_email">Dummy email</string>
+    <string name="dummy_password">Dummy password</string>
+</resources>
